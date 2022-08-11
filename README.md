@@ -1,2 +1,2 @@
-# internship
-internship
+# Projects submitted
+Projects Submitted
